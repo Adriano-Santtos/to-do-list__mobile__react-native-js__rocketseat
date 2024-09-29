@@ -1,4 +1,4 @@
-<h1 align="center">ToDo-List---Desafio-01-forma-o-react-native-rocketseat</h1>
+<h1 align="center">Todo | react-native-js</h1>
 
 <div align="center" id="top"> 
   <img src="./src/assets/print.png" alt="print"/>
